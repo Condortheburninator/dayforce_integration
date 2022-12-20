@@ -12,3 +12,11 @@ ______  _____   _______ ___________  _____  _____   _____ _   _ _____ _____ ____
 ```
                                                                                                                       
                                                                                                                       
+### **:book: purpose**
+
+this repo represents the work to query [dayforce](https://www.dayforcehcm.com/mydayforce/login.aspx) via api to extract employee and vacation data. the work here represents work that is part of a larger bidding intelligence project where reporting as built across systems to help managers understand the state of the business.
+
+in particular, the dayforce integration grabs vacation data with the plan to map it against current capacity. the intent was to provide managers with an understanding of current and upcoming vacation to aid in job scheduling and to better understand and schedule capacity.
+
+
+#
